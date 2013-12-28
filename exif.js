@@ -1,5 +1,4 @@
-
-var EXIF = (function() {
+module.exports = (function() {
 
     var debug = false;
 
